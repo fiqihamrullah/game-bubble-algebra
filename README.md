@@ -5,7 +5,7 @@ This game has simple rule to score : Grouping algebra either by constants only o
 
  ## **Video Demo**
 
- Here's  [link](https://drive.google.com/file/d/1_29J_IaIYGmjIA3fePeI1VGAh-CujE6J/view?usp=drive_link)  to watch how it works
+https://github.com/fiqihamrullah/game-bubble-algebra/assets/68839112/3aefd4ab-71bd-4296-b1ad-b2f7c88f4251
 
 
 ## Run Locally
